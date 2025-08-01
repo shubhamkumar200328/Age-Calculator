@@ -1,8 +1,12 @@
-# Age-Calculator
+# Age-Calculator : Calculate the age of some from now only by providing the D.O.B
 React-project
 
-![Alt Text](AgeCalculatorSS.png)
+### 🚀 Live Preview
 
+**[Age Calculator on Netlify](https://bespoke-truffle-6fb5ef.netlify.app/)**
+
+
+![Alt Text](AgeCalculatorSS.png)
 
 ## Features
 
